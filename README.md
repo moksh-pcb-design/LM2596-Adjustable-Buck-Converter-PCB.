@@ -2,7 +2,7 @@
 
 ![3D Top View](Images/3D_TOP.png)
 
-A professionally designed 2-layer LM2596 Adjustable Buck Converter PCB developed in Altium Designer 25.1. This project includes custom schematic symbol creation, custom PCB footprint development, ERC/DRC verification, BOM generation, Gerber generation, and manufacturing-ready outputs.
+A professionally designed 2-layer LM2596 Adjustable Buck Converter PCB developed using Altium Designer 25.1. This project demonstrates schematic design, custom library creation, PCB layout implementation, ERC/DRC verification, BOM generation, Gerber generation, and manufacturing-ready documentation.
 
 ---
 
@@ -27,12 +27,13 @@ Unlike linear regulators, switching regulators provide significantly higher effi
 | Inductor | 47 µH |
 | Diode | SS54 Schottky Diode |
 | Ground Plane | Bottom Layer GND Pour |
-| Verification | ERC Passed, DRC Passed |
+| Custom Symbol | Yes |
+| Custom Footprints | Yes |
+| ERC Verification | Completed |
+| DRC Verification | Completed |
 | BOM Generation | Completed |
 | Gerber Generation | Completed |
 | Manufacturing Outputs | Generated |
-| Custom Symbol | Yes |
-| Custom Footprints | Yes |
 | 3D Verification | Completed |
 
 ---
@@ -42,9 +43,9 @@ Unlike linear regulators, switching regulators provide significantly higher effi
 - Adjustable Output Voltage Regulation
 - High-Efficiency Switching Converter Design
 - 2-Layer PCB Layout
-- Custom Schematic Symbols
-- Custom PCB Footprints
-- Wide High-Current Power Routing
+- Custom Schematic Symbol Development
+- Custom PCB Footprint Development
+- Wide High-Current Routing
 - Bottom Layer Ground Plane
 - ERC Verification
 - DRC Verification
@@ -59,7 +60,7 @@ Unlike linear regulators, switching regulators provide significantly higher effi
 
 ## Schematic Diagram
 
-![Schematic](Images/SCHEMATIC.png)
+![Schematic](Images/SCHMETIC_page-0001.jpg)
 
 ---
 
@@ -215,33 +216,17 @@ The final design is manufacturing-ready and suitable for educational, embedded, 
 
 # Repository Structure
 
-## Design Files
-
-- PCB Layout (.PcbDoc)
-- Schematic (.SchDoc)
-- Altium Project (.PrjPcb)
-
-## Libraries
-
-- Custom Schematic Library (.SchLib)
-- Custom PCB Library (.PcbLib)
-
-## Reports
-
-- ERC Report
-- DRC Report
-
-## Manufacturing Files
-
-- Gerber Files
-- NC Drill Files
-- Manufacturing Outputs
-
-## Documentation
-
-- BOM
-- PCB Layout Images
-- 3D PCB Images
+```text
+LM2596-Adjustable-Buck-Converter-PCB
+│
+├── Images
+├── Design_Files
+├── Libraries
+├── Reports
+├── Manufacturing_Files
+├── BOM
+└── README.md
+```
 
 ---
 
