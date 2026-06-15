@@ -274,10 +274,15 @@ The final design is manufacturing-ready and suitable for educational, embedded, 
 
 **Moksh Prajapati**
 
-Electronics Engineering Student  
-PCB Design Engineer Aspirant
+Electronics Engineering Student
+PCB Design Enthusiast
 
-Focused on PCB Layout Design, Power Electronics PCB Development, and Hardware Prototyping.
+Focused on:
+• PCB Design
+• Power Electronics
+• ESP32 Hardware Design
+• Altium Designer
+• KiCad
 
 GitHub: https://github.com/moksh-pcb-design
 
