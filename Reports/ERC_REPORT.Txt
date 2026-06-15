@@ -1,0 +1,9 @@
+Class	Document	Source	Message	Time	Date	No.
+
+[Warning]	schmetic buck converter.SchDoc	Compiler	Off grid Pin C3-2 at 94.46mm,97.63mm	22:09:41	13-06-2026	1
+[Warning]	schmetic buck converter.SchDoc	Compiler	Off grid Pin C4-2 at 117.76mm,96.86mm	22:09:41	13-06-2026	2
+[Warning]	schmetic buck converter.SchDoc	Compiler	Off grid Pin C5-2 at 196.61mm,96.86mm	22:09:41	13-06-2026	3
+[Warning]	schmetic buck converter.SchDoc	Compiler	Off grid Pin C6-2 at 206.85mm,96.86mm	22:09:41	13-06-2026	4
+[Warning]	schmetic buck converter.SchDoc	Compiler	Off grid Port FB at 138.67mm,99.07mm	22:09:41	13-06-2026	5
+[Warning]	schmetic buck converter.SchDoc	Compiler	Off grid Port FB at 171.7mm,112.13mm	22:09:41	13-06-2026	6
+[Info]	buck converter.PrjPcb	Compiler	Compile successful, no errors found.	22:09:41	13-06-2026	7
