@@ -59,7 +59,7 @@ Unlike linear regulators, switching regulators provide significantly higher effi
 
 ## Schematic Diagram
 
-![Schematic](Images/SCHEMATIC.png)
+![Schematic](Images/SCHMETIC_PNG.png)
 
 ---
 
